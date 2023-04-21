@@ -10,7 +10,7 @@ export default {
 			v-bind="$attrs"
 			class="flex flex-col items-center p-2 text-xs capitalize"
 		>
-			<slot></slot>>
+			<slot></slot>
 		</a>
 	</li>
 </template>
